@@ -1,10 +1,10 @@
 ---
 title: "The Witcher: Ties of Destiny"
-subtitle: Game Development
+subtitle: 3D Hack & Slash
 layout: default
 modal-id: 6
 date: 2020-03-12
-video: https://www.youtube.com/watch?time_continue=2&v=m5PS3PCTRs0&feature=emb_logo
+video: https://www.youtube.com/embed/watch?time_continue=2&v=m5PS3PCTRs0&feature=emb_logo
 thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfolio/Witcher.gif?raw=true
 alt: image-alt
 project-date: April 2014

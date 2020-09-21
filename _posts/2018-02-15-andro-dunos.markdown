@@ -1,6 +1,6 @@
 ---
 title: "Andro Dunos"
-subtitle: Game Design
+subtitle: Scrolling shooter tribute
 layout: default
 modal-id: 5
 date: 2018-02-15

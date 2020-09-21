@@ -1,6 +1,6 @@
 ---
 title: "The Cliffborn Islands"
-subtitle: Game Development
+subtitle: 2D Platformer
 layout: default
 modal-id: 2
 date: 2018-10-05

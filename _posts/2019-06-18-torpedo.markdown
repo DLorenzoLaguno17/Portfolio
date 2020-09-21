@@ -1,10 +1,10 @@
 ---
 title: "Torpedo Inbound"
-subtitle: Website Design
+subtitle: 2D Submarine shooter
 layout: default
 modal-id: 1
 date: 2019-06-18
-img: treehouse.png
+video: https://www.youtube.com/embed/watch?v=sxm9Ln2IN1o
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
 project-date: June 2019

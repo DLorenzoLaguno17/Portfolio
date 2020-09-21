@@ -1,6 +1,6 @@
 ---
 title: "Cursed Heaven"
-subtitle: Website Design
+subtitle: Isometric RPG
 layout: default
 modal-id: 3
 date: 2019-02-25
