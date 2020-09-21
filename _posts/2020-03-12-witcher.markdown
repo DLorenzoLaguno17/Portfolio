@@ -1,6 +1,6 @@
 ---
-title: The Witcher: Ties of Destiny
-subtitle: Graphic Design
+title: "The Witcher: Ties of Destiny"
+subtitle: Game Development
 layout: default
 modal-id: 6
 date: 2020-03-12
