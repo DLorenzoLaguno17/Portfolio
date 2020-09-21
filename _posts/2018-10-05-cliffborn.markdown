@@ -4,7 +4,7 @@ subtitle: 2D Platformer
 layout: default
 modal-id: 2
 date: 2018-10-05
-video: https://youtu.be/_q9eXDu2KOA
+video: https://www.youtube.com/embed/_q9eXDu2KOA
 thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfolio/Cliffborn.gif?raw=true
 alt: image-alt
 project-date: October 2018

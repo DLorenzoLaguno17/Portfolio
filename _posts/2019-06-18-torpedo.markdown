@@ -4,8 +4,8 @@ subtitle: 2D Submarine shooter
 layout: default
 modal-id: 1
 date: 2019-06-18
-video: https://www.youtube.com/embed/watch?v=sxm9Ln2IN1o
-thumbnail: treehouse-thumbnail.png
+video: https://www.youtube.com/embed/sxm9Ln2IN1o
+thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfolio/Torpedo.gif?raw=true
 alt: image-alt
 project-date: June 2019
 role: Programmer

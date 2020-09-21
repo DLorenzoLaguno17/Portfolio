@@ -4,7 +4,7 @@ subtitle: Scrolling shooter tribute
 layout: default
 modal-id: 5
 date: 2018-02-15
-video: https://youtu.be/nvxHr527PE0
+video: https://www.youtube.com/embed/nvxHr527PE0
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
 project-date: February 2018
