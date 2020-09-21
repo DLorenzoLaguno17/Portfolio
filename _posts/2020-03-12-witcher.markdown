@@ -5,10 +5,10 @@ layout: default
 modal-id: 6
 date: 2020-03-12
 img: witcher.gif
-thumbnail: roundicons-thumbnail.png
+thumbnail: witcher.gif
 alt: image-alt
 project-date: April 2014
-role: Engine & gameplay programmer
+role: Engine and gameplay programmer
 contribution: Game Development
 description: Hack & Slash video game tribute to The Witcher series, developed in C++ and Lua by a whole class of students in third course (30 people) with our own engine.
 web: https://tiesofdestiny.com
