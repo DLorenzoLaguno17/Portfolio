@@ -9,7 +9,8 @@ thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: April 2014
 role: Engine & gameplay programmer
-category: Game Development
+contribution: Game Development
 description: Hack & Slash video game tribute to The Witcher series, developed in C++ and Lua by a whole class of students in third course (30 people) with our own engine.
+web: https://dlorenzolaguno17.github.io/PercularityEngine/
 
 ---
