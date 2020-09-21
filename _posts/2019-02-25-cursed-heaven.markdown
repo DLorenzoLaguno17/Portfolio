@@ -1,5 +1,5 @@
 ---
-title: Cursed Heaven
+title: "Cursed Heaven"
 subtitle: Website Design
 layout: default
 modal-id: 3

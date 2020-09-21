@@ -1,5 +1,5 @@
 ---
-title: Andro Dunos
+title: "Andro Dunos"
 subtitle: Website Design
 layout: default
 modal-id: 5
