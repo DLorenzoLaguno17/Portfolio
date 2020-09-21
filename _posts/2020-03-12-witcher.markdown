@@ -5,7 +5,7 @@ layout: default
 modal-id: 6
 date: 2020-03-12
 img: witcher.gif
-thumbnail: witcher.gif
+thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfolio/Witcher.gif?raw=true
 alt: image-alt
 project-date: April 2014
 role: Engine and gameplay programmer
