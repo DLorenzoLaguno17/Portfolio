@@ -4,7 +4,7 @@ subtitle: Game Design
 layout: default
 modal-id: 5
 date: 2018-02-15
-video: https://www.youtube.com/watch?v=nvxHr527PE0&feature=emb_logo
+video: https://youtu.be/nvxHr527PE0
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
 project-date: February 2018

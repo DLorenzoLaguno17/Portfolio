@@ -4,8 +4,8 @@ subtitle: Game Development
 layout: default
 modal-id: 2
 date: 2018-10-05
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+video: https://youtu.be/_q9eXDu2KOA
+thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfolio/Cliffborn.gif?raw=true
 alt: image-alt
 project-date: October 2018
 role: Programmer and designer

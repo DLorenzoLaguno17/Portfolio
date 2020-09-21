@@ -4,8 +4,8 @@ subtitle: Website Design
 layout: default
 modal-id: 4
 date: 2019-09-17
-video: https://www.youtube.com/watch?v=_q9eXDu2KOA
-thumbnail: Percularity.gif
+video: https://www.youtube.com/
+thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfolio/Percularity.gif?raw=true
 alt: image-alt
 project-date: September 2019
 role: Programmer
