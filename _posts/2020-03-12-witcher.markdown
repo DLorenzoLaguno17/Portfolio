@@ -4,11 +4,11 @@ subtitle: Game Development
 layout: default
 modal-id: 6
 date: 2020-03-12
-img: roundicons.png
+img: witcher.gif
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+role: Engine & gameplay programmer
 category: Game Development
 description: Hack & Slash video game tribute to The Witcher series, developed in C++ and Lua by a whole class of students in third course (30 people) with our own engine.
 
