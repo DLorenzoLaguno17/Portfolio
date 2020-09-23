@@ -15,12 +15,13 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <iframe width="560" height="315" src="{{ post.video }}" frameborder="20" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <hr class="star-primary">
                             <p align="justify">{{ post.description }}</p>
-                            <p align="justify">
+                            <p align="justify"><strong>Personal Contribution:</strong>
                                 {% for snippet in post.contribution %}
-                                <li>
-                                    <p>{{ snippet }}</p>
-                                </li>                           
+                                <ul>
+                                    <li>{{ snippet }}</li>
+                                <ui>                           
                                 {% endfor %}
                             </p>
                             <ul class="list-inline item-details">
