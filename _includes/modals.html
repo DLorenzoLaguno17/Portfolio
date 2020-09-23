@@ -18,11 +18,11 @@
                             <hr class="star-primary">
                             <p align="justify">{{ post.description }}</p>
                             <p align="justify"><strong>Personal Contribution:</strong>
-                                {% for snippet in post.contribution %}
                                 <ul>
-                                    <li align="justify">{{ snippet }}</li>
+                                    {% for snippet in post.contribution %}
+                                        <li align="justify">{{ snippet }}</li>
+                                    {% endfor %}
                                 <ul>                           
-                                {% endfor %}
                             </p>
                             <ul class="list-inline item-details">
                                 <li>
