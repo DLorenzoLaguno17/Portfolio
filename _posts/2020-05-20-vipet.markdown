@@ -1,0 +1,16 @@
+---
+title: "ViPet"
+subtitle: Augmented Reality
+layout: default
+modal-id: 8
+date: 2020-05-20
+video: https://www.youtube.com/embed/cn4lewQnnv8
+thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfolio/ViPet.gif?raw=true
+alt: image-alt
+project-date: May 2020
+role: Programmer
+description: ViPet is a simple game that developed uby three third year students in four days using Unity and Vuforia. In it, you have to take care of your virtual mascot. He has three different state bars, each one with its own specific related actions, and you have to ensure none of them drops down to 50%. Depending on how he is feeling, the pet shows his different emotions. We use two AR targets, one for each game scenery.
+contribution: Web Development
+web: https://github.com/DLorenzoLaguno17/ViPet/
+
+---
