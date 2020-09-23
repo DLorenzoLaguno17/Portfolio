@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: 2019-02-25
 video: https://www.youtube.com/embed/bB18RaQevLs
-thumbnail: golden-thumbnail.png
+thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfolio/Torpedo.gif?raw=true
 alt: image-alt
 project-date: February 2019
 role: Team lead and programmer

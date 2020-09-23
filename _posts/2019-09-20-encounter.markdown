@@ -1,6 +1,6 @@
 ---
 title: "Radical Encounter"
-subtitle: 3D God game
+subtitle: 3D God Game
 layout: default
 modal-id: 7
 date: 2019-09-20
