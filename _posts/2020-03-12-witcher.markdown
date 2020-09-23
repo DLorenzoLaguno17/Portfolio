@@ -10,10 +10,7 @@ alt: image-alt
 project-date: April 2014
 role: Engine and gameplay programmer
 contribution: Game Development
-description: "This project is an action Hack & Slash video game tribute to The Witcher series, result of a team of 30 people, a whole class of students in third course. It is a cooperative game for two players, which will have to play as Geralt or Jaskier, each one with their different abilities and combat style, and overcome waves of different types of enemies to manage to get their way to the victory. To create it we developed our own game engine, Broken Engine, using in C++ and a group of open third-party libraries, such as OpenGL, PhysX or Recast, and using Lua as our scripting language.
-    
-* test
-* test"
+description: This project is an action Hack & Slash video game tribute to The Witcher series, result of a team of 30 people, a whole class of students in third course. It is a cooperative game for two players, which will have to play as Geralt or Jaskier, each one with their different abilities and combat style, and overcome waves of different types of enemies to manage to get their way to the victory. To create it we developed our own game engine, Broken Engine, using in C++ and a group of open third-party libraries, such as OpenGL, PhysX or Recast, and using Lua as our scripting language.
 web: https://tiesofdestiny.com
 
 ---
