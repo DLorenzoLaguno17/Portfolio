@@ -15,16 +15,22 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <iframe width="560" height="315" src="{{ post.video }}" frameborder="20" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                            <p align=>{{ post.description }}</p>
-                            <p align="justify">{{ post.contribution }}</p>
+                            <p align="justify">{{ post.description }}</p>
+                            <p align="justify">
+                                {% for snippet in post.contribution %}
+                                <li>
+                                    <p>{{ snippet }}</p>
+                                </li>                           
+                                {% endfor %}
+                            </p>
                             <ul class="list-inline item-details">
-                                <li>Role:
-                                    <strong><a href="http://startbootstrap.com">{{ post.role }}</a>
-                                    </strong>
+                                <li>
+                                    <strong>Role:</strong>
+                                    <a href="http://startbootstrap.com">{{ post.role }}</a>
                                 </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
-                                    </strong>
+                                <li>
+                                    <strong>Date:</strong>
+                                    <a href="http://startbootstrap.com">{{ post.project-date }}</a>
                                 </li>
                                 <li>
                                     <strong>Project page:</strong>

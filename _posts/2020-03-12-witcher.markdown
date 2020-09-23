@@ -10,13 +10,14 @@ alt: image-alt
 project-date: April 2014
 role: Engine and gameplay programmer
 description: This project is an action Hack & Slash video game tribute to The Witcher series, result of a team of 30 people, a whole class of students in third course. It is a cooperative game for two players, which will have to play as Geralt or Jaskier, each one with their different abilities and combat style, and overcome waves of different types of enemies to manage to get their way to the victory. To create it we developed our own game engine, Broken Engine, using in C++ and a group of open third-party libraries, such as OpenGL, PhysX or Recast, and using Lua as our scripting language.
-contribution: "Scripting System: Establishment of a homogenization for all scripting functions and their distribution in different specific namespaces, apart from programming several of those functions myself. Implementation of script initialization, save and load of scripts and variable editing from the engine inspector to improve user experience, as well as drag and drop of game objects into public script variables.
-Pause Menu: Whole development of the in-game pause menu.
-Main Menu: Programming the main menu and building its scene in the engine.
-Tutorial: Developed part of the steps of the tutorial and helped merging all of them, as well as ensuring there are no drawbacks with the pause menu and the tips of the tutorial.
-Screamer Ghoul: The screamer is an agile and elusive enemy that tries to be at a certain distance from the players from where it can annoy them and constantly summon lesser monsters.
-Enemy Distribution: Tested different positions of the spawners of the second level to check the performance of the game and balancing the different waves of enemies.
-QA: Playtesting the game looking for bugs and ensuring it had the difficulty we designed and that the gameplay felt entertaining and dynamic."
+contribution:
+    - Scripting System: Establishment of a homogenization for all scripting functions and their distribution in different specific namespaces, apart from programming several of those functions myself. Implementation of script initialization, save and load of scripts and variable editing from the engine inspector to improve user experience, as well as drag and drop of game objects into public script variables.
+    - "Pause Menu: Whole development of the in-game pause menu."
+    - Main Menu: Programming the main menu and building its scene in the engine.
+    - Tutorial: Developed part of the steps of the tutorial and helped merging all of them, as well as ensuring there are no drawbacks with the pause menu and the tips of the tutorial.
+    - Screamer Ghoul: The screamer is an agile and elusive enemy that tries to be at a certain distance from the players from where it can annoy them and constantly summon lesser monsters.
+    - Enemy Distribution: Tested different positions of the spawners of the second level to check the performance of the game and balancing the different waves of enemies.
+    - QA: Playtesting the game looking for bugs and ensuring it had the difficulty we designed and that the gameplay felt entertaining and dynamic."
 
 web: https://tiesofdestiny.com
 
