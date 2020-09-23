@@ -15,8 +15,8 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <iframe width="560" height="315" src="{{ post.video }}" frameborder="20" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                            <p>{{ post.description }}</p>
-                            <p>{{ post.contribution }}</p>
+                            <p align=>{{ post.description }}</p>
+                            <p align="justify">{{ post.contribution }}</p>
                             <ul class="list-inline item-details">
                                 <li>Role:
                                     <strong><a href="http://startbootstrap.com">{{ post.role }}</a>
@@ -26,9 +26,9 @@
                                     <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
                                     </strong>
                                 </li>
-                                <li>Project page:
-                                    <strong><a href="{{ post.web }}">Show me!</a>
-                                    </strong>
+                                <li>
+                                    <strong>Project page:</strong>
+                                    <a href="{{ post.web }}">Show me!</a>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
