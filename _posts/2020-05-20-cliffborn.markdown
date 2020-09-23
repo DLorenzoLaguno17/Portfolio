@@ -3,7 +3,7 @@ title: "The Cliffborn Islands"
 subtitle: 2D Platformer
 layout: default
 modal-id: 2
-date: 2018-10-05
+date: 2020-05-20
 video: https://www.youtube.com/embed/_q9eXDu2KOA
 thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfolio/Cliffborn.gif?raw=true
 alt: image-alt

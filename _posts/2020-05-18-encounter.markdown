@@ -3,7 +3,7 @@ title: "Radical Encounter"
 subtitle: 3D God Game
 layout: default
 modal-id: 6
-date: 2019-09-20
+date: 2019-09-18
 video: https://www.youtube.com/embed/9H-NG_e6Kos
 thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfolio/Torpedo.gif?raw=true
 alt: image-alt

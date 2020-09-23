@@ -3,7 +3,7 @@ title: "Percularity Engine"
 subtitle: Game Engine
 layout: default
 modal-id: 5
-date: 2019-09-17
+date: 2020-05-19
 video: https://www.youtube.com/
 thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfolio/Percularity.gif?raw=true
 alt: image-alt
