@@ -17,7 +17,7 @@
                             <iframe width="560" height="315" src="{{ post.video }}" frameborder="20" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <hr class="star-primary">
                             <p align="justify">{{ post.description }}</p>
-                            <p align="justify"><strong>Personal Contribution:</strong>
+                            <p align="justify"><strong>Personal contribution:</strong>
                                 <ul>
                                     {% for snippet in post.contribution %}
                                         <li align="justify">{{ snippet }}</li>
@@ -27,11 +27,11 @@
                             <ul class="list-inline item-details">
                                 <li>
                                     <strong>Role:</strong>
-                                    <a href="http://startbootstrap.com">{{ post.role }}</a>
+                                    <p>{{ post.role }}</p>
                                 </li>
                                 <li>
                                     <strong>Date:</strong>
-                                    <a href="http://startbootstrap.com">{{ post.project-date }}</a>
+                                    <p>{{ post.project-date }}</p>
                                 </li>
                                 <li>
                                     <strong>Project page:</strong>
