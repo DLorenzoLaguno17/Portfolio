@@ -10,7 +10,8 @@ alt: image-alt
 project-date: February 2018 - June 2018
 role: QA and programmer
 description: Andro Dunos recreation tribute developed in C++ by five students in first course.
-contribution: Web Development
+contribution: 
+    - 
 web: https://ofaura.github.io/Andro_Dunos/
 
 ---
