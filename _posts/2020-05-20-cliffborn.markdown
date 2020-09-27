@@ -9,7 +9,7 @@ thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfol
 alt: image-alt
 project-date: October 2018 - December 2018
 role: Programmer and designer
-description: The Cliffborn Islands is a 2D platformer game that was developed by a couple of second year students. We used Tiled for the creation of the two levels of the game, and it has different enemies that use pathfinding to try to attack the player, who can attack them or scape. Even though it was not demanded from us we also decided to implement a hook to provide more mobility and platforming tools for the player.
+description: The Cliffborn Islands is a 2D platformer game that was purely developed with C++ by a couple of second year students. We used Tiled for the creation of the two levels of the game, and it has different enemies that use pathfinding to try to attack the player, who can attack them or scape. Even though it was not demanded from us we also decided to implement a hook to provide more mobility and platforming tools for the player. Furthermore, the game has a save and load system that uses XML files.
 contribution: 
     - Creation and implementation of the graphic user interface system.
     - Programmed the collision system.
