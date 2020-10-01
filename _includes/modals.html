@@ -17,6 +17,21 @@
                             <iframe width="560" height="315" src="{{ post.video }}" frameborder="20" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <hr class="star-primary">
                             <p align="justify">{{ post.description }}</p>
+                            
+                            <ul class="list-inline item-details">
+                                <li>
+                                    <strong>Role:</strong>
+                                    <a>{{ post.role }}</a>
+                                </li>
+                                <li>
+                                    <strong>Date:</strong>
+                                    <a>{{ post.project-date }}</a>
+                                </li>
+                                <li>
+                                    <strong>Project page:</strong>
+                                    <a href="{{ post.web }}">Show me!</a>
+                                </li>
+                            </ul>
                             <p align="justify"><strong>Personal contribution:</strong>
                                 <ul>
                                     {% for snippet in post.contribution %}
@@ -24,20 +39,6 @@
                                     {% endfor %}
                                 <ul>                           
                             </p>
-                            <ul class="list-inline item-details">
-                                <li>
-                                    <strong>Role:</strong>
-                                    <p>{{ post.role }}</p>
-                                </li>
-                                <li>
-                                    <strong>Date:</strong>
-                                    <p>{{ post.project-date }}</p>
-                                </li>
-                                <li>
-                                    <strong>Project page:</strong>
-                                    <a href="{{ post.web }}">Show me!</a>
-                                </li>
-                            </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
