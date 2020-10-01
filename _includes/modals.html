@@ -15,8 +15,7 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <iframe width="560" height="315" src="{{ post.video }}" frameborder="20" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                            <hr class="star-primary">
-                            <p align="justify">{{ post.description }}</p>                            
+                            <hr class="star-primary">          
                             <ul class="list-inline item-details">
                                 <li>
                                     <strong>Role:</strong>
@@ -31,6 +30,8 @@
                                     <a href="{{ post.web }}">Show me!</a>
                                 </li>
                             </ul>
+                            <p align="justify">{{ post.description }}</p>    
+                            <p align="justify"><i>{{ post.comment }}<i></p>                 
                             <p align="justify"><strong>Personal contribution:</strong>
                                 <ul>
                                     {% for snippet in post.contribution %}

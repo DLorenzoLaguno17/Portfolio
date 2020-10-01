@@ -9,7 +9,8 @@ thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfol
 alt: image-alt
 project-date: June 2019
 role: Programmer and designer
-description: Torpedo Inbound is a Game Jam project made by 5 students during the 2nd CITM Game Jam, which was the first one I participated in. It is a submarine shooter game in the depths of the ocean that was developed with the Unity 2D Engine and the Tiled Map Editor. In it the player confronts treacherous sea mines and other submarines. As a player you can either throw your own mines or shoot powerful torpedos. Besides, the deeper you go, the darker the scenery becomes, so the submarine has a front spotlight that helps it illuminate towards where it is facing.
+description: Torpedo Inbound is a Game Jam project made by 5 students during the 2nd CITM Game Jam. It is a submarine shooter game in the depths of the ocean that was developed with the Unity 2D Engine and the Tiled Map Editor. In it the player confronts treacherous sea mines and other submarines. As a player you can either throw your own mines or shoot powerful torpedos. Besides, the deeper you go, the darker the scenery becomes, so the submarine has a front spotlight that helps it illuminate towards where it is facing.
+comment: That Game Jam was the first for all the members of the team and only one of us had previously worked a bit with Unity before, so we were watching tutorials and learning how the engine worked at the same time we were making the game.
 contribution: 
     - Implemented player shots.
     - Implemented all the explosions.
