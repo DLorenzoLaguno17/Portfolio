@@ -14,7 +14,7 @@ contribution:
     - Programmed obstacle avoidance and entity separation steering behaviors.
     - Programmed the different interactions between the characters.
     - Developmed the behavior trees of the three types of characters with Node Canvas.
-    - Creation of the Graphic User interface of the game.
+    - Creation of the graphic user interface of the game.
     - Creation of the scenery.
 web: https://dlorenzolaguno17.github.io/RadicalEncounter/
 
