@@ -2,23 +2,22 @@ url: https://dlorenzolaguno17.github.io
 baseurl: /Portfolio/
 
 # Site settings
-title: Daniel Lorenzo Laguno
+title: Daniel Lorenzo | Game Developer
 email: dlorenzolaguno17@gmail.com
 description: "Welcome to Daniel Lorenzo's personal webpage!"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/DLorenzoLaguno17
   - title: linkedin
     url: https://www.linkedin.com/in/daniel-lorenzo-laguno-a2ab35180/
+  - title: instagram
+    url: https://www.instagram.com/dlorenzolaguno17/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Castellbisbal, Barcelona 08755
 
 # Build settings
 markdown: kramdown
