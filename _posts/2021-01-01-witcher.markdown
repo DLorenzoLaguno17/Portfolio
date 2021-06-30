@@ -3,7 +3,7 @@ title: "The Witcher: Ties of Destiny"
 subtitle: 3D Hack & Slash
 layout: default
 modal-id: 0
-date: 2020-05-21
+date: 2021-01-01
 video: https://www.youtube.com/embed/m5PS3PCTRs0
 thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfolio/Witcher.gif?raw=true
 alt: image-alt
