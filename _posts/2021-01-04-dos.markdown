@@ -3,7 +3,7 @@ title: "DOS Attack"
 subtitle: 2D Platformer
 layout: default
 modal-id: 3
-date: 2021-01-04
+date: 2021-02-01
 video: https://www.youtube.com/embed/_q9eXDu2KOA
 thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfolio/Cliffborn.gif?raw=true
 alt: image-alt

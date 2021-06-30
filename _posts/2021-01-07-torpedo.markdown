@@ -3,7 +3,7 @@ title: "Torpedo Inbound"
 subtitle: 2D Submarine shooter
 layout: default
 modal-id: 6
-date: 2021-01-07
+date: 2021-03-01
 video: https://www.youtube.com/embed/sxm9Ln2IN1o
 thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfolio/Torpedo.gif?raw=true
 alt: image-alt

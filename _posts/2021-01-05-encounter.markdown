@@ -3,7 +3,7 @@ title: "Radical Encounter"
 subtitle: 3D God Game
 layout: default
 modal-id: 4
-date: 2021-01-05
+date: 2021-02-02
 video: https://www.youtube.com/embed/9H-NG_e6Kos
 thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfolio/Encounter.gif?raw=true
 alt: image-alt
