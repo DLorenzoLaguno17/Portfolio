@@ -2,7 +2,7 @@
 title: "Andro Dunos"
 subtitle: Scrolling shooter arcade
 layout: default
-modal-id: 8
+modal-id: 0
 date: 2018-02-15
 video: https://www.youtube.com/embed/nvxHr527PE0
 thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfolio/AndroDunos.gif?raw=true
