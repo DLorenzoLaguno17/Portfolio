@@ -3,7 +3,7 @@ title: "ViPet"
 subtitle: Augmented Reality
 layout: default
 modal-id: 5
-date: 2020-05-17
+date: 2021-01-06
 video: https://www.youtube.com/embed/cn4lewQnnv8
 thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfolio/ViPet.gif?raw=true
 alt: image-alt
