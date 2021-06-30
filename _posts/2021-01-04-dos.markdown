@@ -1,6 +1,6 @@
 ---
 title: "DOS Attack"
-subtitle: 2D Platformer
+subtitle: Basic multiplayer game
 layout: default
 modal-id: 3
 date: 2021-02-01
