@@ -4,7 +4,7 @@ subtitle: Game Engine
 layout: default
 modal-id: 3
 date: 2021-03-01
-#video: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfolio/Percularity.gif?raw=true
+video: https://www.youtube.com/embed/4efkSR2-XnE
 thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfolio/Percularity.gif?raw=true
 alt: image-alt
 project-date: September 2019 - December 2019
