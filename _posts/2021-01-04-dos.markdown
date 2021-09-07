@@ -10,7 +10,6 @@ alt: image-alt
 project-date: November 2020 - December 2020
 role: Programmer
 description: DOS Attack is a simple multiplayer game developed by two 4th grade students. In it you control a computer system that surfs through a network and that battles with up to 4 other players to see which one can get more kills. Being a reskined space shooter, the objective is to send Denial-of-Service attacks from your PC to the other computer systems that are connected to the game until you shut them down, at the same time you move to avoid theirs.
-comment: sdasfasfasdf
 contribution: 
     - World State Replication
     - Delivery Manager
