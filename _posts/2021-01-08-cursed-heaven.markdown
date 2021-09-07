@@ -2,7 +2,7 @@
 title: "Cursed Heaven"
 subtitle: Isometric RPG
 layout: default
-modal-id: 7
+modal-id: 8
 date: 2021-01-02
 video: https://www.youtube.com/embed/nmWJhhwYgIc
 thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfolio/CursedHeaven.gif?raw=true
