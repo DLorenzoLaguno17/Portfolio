@@ -4,7 +4,7 @@ subtitle: Isometric RPG
 layout: default
 modal-id: 7
 date: 2021-01-02
-video: https://www.youtube.com/embed/bB18RaQevLs
+video: https://www.youtube.com/embed/nmWJhhwYgIc
 thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfolio/CursedHeaven.gif?raw=true
 alt: image-alt
 project-date: February 2019 - June 2019
