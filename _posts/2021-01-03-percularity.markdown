@@ -9,7 +9,7 @@ thumbnail: https://github.com/DLorenzoLaguno17/Portfolio/blob/master/img/portfol
 alt: image-alt
 project-date: September 2019 - December 2019
 role: Programmer
-description: Percularity is a a game engine programmed from scratch with C++ using open third-party libraries. It was developed in third course by two students. The purpouse of the subject was to build a game engine useful enough it could allow us to develop a game with the whole class as a big team. Using pairs, each team developed their own version of the program with the idea of mergeing the best parts of each of them into the best game engine we could get.
+description: Percularity is an OpenGL based game engine, programmed from scratch with C++ and using some other open third-party libraries. It was developed in third course by two students. The purpouse of the subject was to build a project useful enough it could allow us to develop a game with the whole class as a big team. Using pairs, each team developed their own version of the program with the idea of mergeing the best parts of each of them into the best game engine we could get.
 contribution: 
     - "Created and programmed GameObjects, as well as their mesh, material and rigidbody components. I also programmed how are they seen in the hierarchy"    
     - "Serialization of the engine scenes, through the implementation of a save and load of scene files using JSON."
