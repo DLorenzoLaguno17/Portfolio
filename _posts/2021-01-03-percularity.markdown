@@ -17,6 +17,7 @@ contribution:
     - Development and personalization of the engine's user interface using Dear ImGui.
     - Import (with drag and drop) and export of models and textures, using Assimp and DevIL respectively.
     - Implementation of the car and the spheres to test the collisions and physics of the scene.
+    - Implementation of Undo & Redo functionalities.
 web: https://dlorenzolaguno17.github.io/PercularityEngine/
 
 ---
