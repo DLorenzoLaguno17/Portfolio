@@ -5,6 +5,7 @@ baseurl: /Portfolio/
 title: Daniel Lorenzo  |  Game Developer
 email: dlorenzolaguno17@gmail.com
 description: "Welcome to Daniel Lorenzo's personal webpage!"
+date: "2022"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -17,7 +18,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Castellbisbal, Barcelona 08755
+  - line: Madrid, Community of Madrid 28014
 
 # Build settings
 markdown: kramdown
